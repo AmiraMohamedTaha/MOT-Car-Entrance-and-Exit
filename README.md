@@ -25,3 +25,6 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e90d104f-6cb7-4ea2-b8c4-ff927613749e" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b705dcc-4f0b-4c54-aa4d-f4495dd7d21c" />
+
+Link to video:
+https://drive.google.com/file/d/1rrIait5nokuXDrUu1_b8Cb9I4Nztifz6/view?usp=sharing
